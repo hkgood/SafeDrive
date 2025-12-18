@@ -1,0 +1,7 @@
+{
+  "name": "SafeDrive Tracker",
+  "description": "A smart driving companion that monitors harsh acceleration, braking, and lateral movements using phone sensors. Visualizes your route and safety events on an interactive map with AI-powered driving analysis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
